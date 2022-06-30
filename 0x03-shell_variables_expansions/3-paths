@@ -1,0 +1,2 @@
+#!/bin/bash
+Echo $ PATH | tr -s ‘:’ ‘\’ | wc -1
